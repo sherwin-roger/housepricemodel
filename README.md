@@ -185,9 +185,12 @@ def HouseModelPrediction(request):
     return render(request, 'housepriceprediction/HouseModelPrediction.html', context)     
 ```
 
+
 ## OUTPUT:
 ![output](./static/img/Screenshot (184).png)
+
 ![output](./static/img/Screenshot (185).png)
+
 ![output](./static/img/Screenshot (186).png)
 
 ## RESULT:
