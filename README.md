@@ -189,9 +189,9 @@ def HouseModelPrediction(request):
 ## OUTPUT:
 ![output](./static/img/Screenshot(184).jpg)
 
-![output](./static/img/Screenshot (185).jpg)
+![output](./static/img/Screenshot(185).jpg)
 
-![output](./static/img/Screenshot (186).jpg)
+![output](./static/img/Screenshot(186).jpg)
 
 ## RESULT:
 Thus the housepricemodel Website is created and hosted on server
