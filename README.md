@@ -187,7 +187,7 @@ def HouseModelPrediction(request):
 
 
 ## OUTPUT:
-![output](./static/img/Screenshot (184).jpg)
+![output](./static/img/Screenshot(184).jpg)
 
 ![output](./static/img/Screenshot (185).jpg)
 
